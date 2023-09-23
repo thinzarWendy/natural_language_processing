@@ -1,0 +1,8 @@
+#Environment 
+.nlp_venv
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+.vscode/
